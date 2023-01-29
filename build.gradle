@@ -7,6 +7,7 @@ buildscript {
         oss_licenses_version = '17.0.0'
         kotlin_version = '1.7.0'
         appcompat_version = '1.6.0'
+        hawk_version = '2.0.1'
     }
 
     dependencies {

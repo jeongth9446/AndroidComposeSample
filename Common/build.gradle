@@ -54,4 +54,7 @@ dependencies {
 
     /* gson */
     implementation "com.google.code.gson:gson:$gson_version"
+
+    /* Hawk */
+    implementation "com.orhanobut:hawk:$hawk_version"
 }
